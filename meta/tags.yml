@@ -11,3 +11,7 @@ tags:
     name: mdx
   - slug: markdown
     name: markdown
+  - slug: hello
+    name: Hello World
+  - slug: test
+    name: A test
